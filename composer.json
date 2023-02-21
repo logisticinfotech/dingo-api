@@ -13,8 +13,7 @@
         "email": "jason.lewis1991@gmail.com"
     }],
     "require": {
-        "php": "^8.0",
-        "dingo/blueprint": "^0.4.4",        
+        "php": "^8.0",  
         "league/fractal": "^0.20"
     },
     "require-dev": {
